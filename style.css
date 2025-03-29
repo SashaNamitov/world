@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+header {
+    background: black;
+    padding: 24px 33px 24px 33px;
+}
+
+
+header a {
+    color:#33CCCC;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 100px;
+}
+
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+
+main h1 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+main p {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+main ul {
+    background: #33CCCC;
+    margin: 0 auto;
+    display: inline-block;
+    padding: 10px 10px 10px 30px;
+    margin-left: 50%;
+    border-radius: 5px;
+}
+
+
+.amerika {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.big-img {
+    width: 100%;
+}
+
+
+.descr {
+    font-size: 30px;
+    margin-bottom: 139px;
+}
+
+
+footer img {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+
+footer {
+    background: black;
+}
+
+
+.text  {
+    color:#33CCCC;
+    font-size: 30px;
+    text-decoration: none;
+    display: block;
+}
